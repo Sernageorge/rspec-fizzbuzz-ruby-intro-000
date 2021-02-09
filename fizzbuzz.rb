@@ -7,5 +7,3 @@ def fizzbuzz(number)
     print "Fizz"
   end
 end
-
-
