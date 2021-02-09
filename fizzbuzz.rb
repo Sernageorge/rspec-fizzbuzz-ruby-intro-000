@@ -8,4 +8,4 @@ def fizzbuzz(number)
   end
 end
 
-fizzbuzz(10)
+fizzbuzz(1055)
