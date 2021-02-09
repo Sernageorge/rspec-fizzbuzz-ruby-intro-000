@@ -1,4 +1,4 @@
-def fizzbuzz(i.to 100)
+def fizzbuzz(i)
   if (i % 3 == 0) (output += puts "Fizz")
   if (i % 5 == 0) (output += puts "Buzz")
   if (i % 7 == 0) (output += puts "Bazz")
